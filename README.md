@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaxterN
 - 👀 I’m interested in Electrical and Mechanical Engineering 
 - 🌱 I’m currently learning all I can from the life
-- 💞️ I’m looking to collaborate on everithing
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
